@@ -1,0 +1,9 @@
+opencv-python
+numpy
+scikit-image
+scikit-learn
+torch
+torchvision
+streamlit
+Pillow
+joblib
